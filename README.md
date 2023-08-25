@@ -49,7 +49,7 @@ In this challenge I utilized a number of different sources to complete the accep
 
 ## Final Video Submission
 
-* 
+*  
 
 ## Grading Requirements
 
