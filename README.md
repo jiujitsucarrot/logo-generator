@@ -45,7 +45,7 @@ Your application should use Jest for running the unit tests and Inquirer for col
 
 ## Sources 
 
-In this challenge I utilized a number of different sources to complete the acceptance criteria. I went back and revisited the course lectures from the week before, looked through my notes, Google, YouTube, tutoring session, office hours, reaching out to classmates, colleagues, and TA's. 
+In this challenge I utilized a number of different sources to complete the acceptance criteria. I went back and revisited the course lectures from the week before, looked through my notes, Google, YouTube, tutoring, office hours, reaching out to classmates, colleagues, and TA's. A lot of free time spent on researching the current topic every week to gain a better understanding. 
 
 ## Final Video Submission
 
