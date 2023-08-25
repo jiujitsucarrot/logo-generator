@@ -49,7 +49,7 @@ In this challenge I utilized a number of different sources to complete the accep
 
 ## Final Video Submission
 
-*  
+* https://www.youtube.com/watch?v=uL2ZcD6Ma6U&t=18s
 
 ## Grading Requirements
 
